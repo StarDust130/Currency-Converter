@@ -13,6 +13,16 @@
         <li>Simple and intuitive user interface 💻</li>
         <li>Supports multiple languages 🌐</li>
     </ul>
+    <h2>Languages and Tools Used 🛠️</h2>
+<ul>
+    <li>HTML 🌐</li>
+    <li>CSS 🎨</li>
+    <li>JavaScript 💻</li>
+    <li>React ⚛️</li>
+    <li>Tailwind CSS 🚀</li>
+    <li>Netlify (for hosting) 🌐</li>
+</ul>
+
 
   <h2>How to Use</h2>
     <ol>
