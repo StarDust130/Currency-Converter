@@ -1,6 +1,10 @@
  <h1>Currency Converter 🌍💰</h1>
     <p>Welcome to the Currency Converter project! This simple web app allows you to convert between different currencies with ease.</p>
     
+   <h2>See Live 🚀</h2>
+    <p>You can try out the live demo of the Currency Converter by clicking the link below:</p>
+    <a href="stardust-currency-converter.netlify.app" target="_blank">Currency Converter Demo</a>
+    
   <h2>Features</h2>
     <ul>
         <li>Convert between various currencies from around the world 🌎</li>
@@ -33,4 +37,4 @@ open index.html
    <h2>Contact Me📧</h2>
     <p>If you have any questions or suggestions, feel free to reach out to us at csyadav0513@email.com.</p>
 
-    <h2>Happy Coding! 😃</h2>
+ <h2>Happy Coding! 😃</h2>
