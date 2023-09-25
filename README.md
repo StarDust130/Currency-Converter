@@ -11,7 +11,7 @@
         <li>Convert between various currencies from around the world 🌎</li>
         <li>Real-time exchange rate updates 🔄</li>
         <li>Simple and intuitive user interface 💻</li>
-        <li>Supports multiple languages 🌐</li>
+        <li>Supports all  currencies 🌐</li>
     </ul>
     <h2>Languages and Tools Used 🛠️</h2>
 <ul>
